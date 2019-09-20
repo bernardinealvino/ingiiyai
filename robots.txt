@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kongeebui.virginhimalayas.com/sitemap.xml
